@@ -3,6 +3,6 @@
 ## Projeto com:
 
 - React
-- Tailwind
+- TailwindCSS
 - Styled-components
 - Atomic Design
